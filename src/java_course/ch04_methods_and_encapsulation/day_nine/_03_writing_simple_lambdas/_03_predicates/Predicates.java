@@ -14,4 +14,4 @@ public class PredicateSearch {
         }
         System.out.println();
     }
-17: }
+}
